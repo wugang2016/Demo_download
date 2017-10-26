@@ -9,7 +9,7 @@
 * Support two screen while the pc has two display devices
 * Support BJCast
 * Support Hardware Encoder
-
+# 
 # ScreenShare.apk
 ## Support System
 * Android 5.0+
@@ -17,7 +17,7 @@
 * Send Android Screen(Mirror) to receiver--"ScreenRenderDemo.apk"
 * Auto Find receiver
 * Support BJCast
-
+# 
 # ScreenRenderDemo.apk
 ## Support System
 * Android 4.0+
@@ -27,7 +27,7 @@
 * Play airplay mirror from iphone/ipad/mac
 * Support BJCast
 * Support Airplay
-
+# 
 # License
 * Free but has some limits
 * maybe disconnect after mirroring 5-10min
