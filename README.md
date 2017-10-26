@@ -1,7 +1,7 @@
 # BoxClient_Demo.exe
 ## Support System
 * Windows XP
-# Windows 7
+* Windows 7
 * Windows 8
 * Windows 10
 ## Feature
