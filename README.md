@@ -11,8 +11,21 @@
 * Support Hardware Encoder
 
 # ScreenShare.apk
+## Support System
+* Android 5.0+
+## Feature
+* Send Android Screen(Mirror) to receiver--"ScreenRenderDemo.apk"
+* Auto Find receiver
+* Support BJCast
 
 # ScreenRenderDemo.apk
+## Support System
+* Android 4.0+
+* PAD/phone/TV Box
+## Feature
+* Play Screen(Mirror) from sender--"BoxClient_Demo.exe/ScreenShare.apk"
+* Support BJCast
+* Support Airplay
 
 # License
 
