@@ -24,8 +24,12 @@
 * PAD/phone/TV Box
 ## Feature
 * Play Screen(Mirror) from sender--"BoxClient_Demo.exe/ScreenShare.apk"
+* Play airplay mirror from iphone/ipad/mac
 * Support BJCast
 * Support Airplay
 
 # License
-
+* Free but has some limits
+* maybe disconnect after mirroring 5-10min
+* 1/3 probability maybe coredump while start airplay mirror
+* Time intervals between multiple screens/mirrors are required
