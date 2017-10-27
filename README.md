@@ -36,7 +36,7 @@
 * Airplay Mirror Receiver
 * Record Mirror Streamer to video.h264 file.you can play this file with ffplay:
   ffplay video.h264 
-* Record audio pcm data to file to audio_44100_2_s16.pcm.you can play this file with ffplay:
+* Record audio pcm data to file audio_44100_2_s16.pcm.you can play this file with ffplay:
   ffplay -f s16le  -channel_layout 3 -channels 2  -ar 44100 audio_44100_2_s16.pcm
 ## Note:
 * we use mdns lib to suppot zeroconf in this demo.so you must stop avahi-daemon first.
