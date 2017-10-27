@@ -36,7 +36,7 @@
 * Windows 8
 * Windows 10
 ## Feature
-* Support Airplay
+* Airplay Mirror Receiver
 # 
 # License
 * Free but has some limits
