@@ -29,6 +29,15 @@
 * Support BJCast
 * Support Airplay
 # 
+# easyAirplay_windows.zip
+## Support System
+* Windows XP
+* Windows 7
+* Windows 8
+* Windows 10
+## Feature
+* Support Airplay
+# 
 # License
 * Free but has some limits
 * maybe disconnect after mirroring 5-10min
