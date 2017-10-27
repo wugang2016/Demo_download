@@ -29,6 +29,18 @@
 * Support BJCast
 * Support Airplay
 # 
+# easyAirplay_linux.zip
+## Support System
+* x86_64 linux(test in centos 7.1)
+## Feature
+* Airplay Mirror Receiver
+* Record Mirror Streamer to video.h264 file.you can play this file with ffplay:
+  ffplay video.h264 
+* Record audio pcm data to file to audio_44100_2_s16.pcm.you can play this file with ffplay:
+  ffplay -f s16le  -channel_layout 3 -channels 2  -ar 44100 audio_44100_2_s16.pcm
+## Note:
+* we use mdns lib to suppot zeroconf in this demo.so you must stop avahi-daemon first.
+# 
 # easyAirplay_windows.zip
 ## Support System
 * Windows XP
