@@ -51,6 +51,10 @@
 * Airplay Mirror Receiver
 * Record Mirror Streamer to .H264 file
 # 
+## Note:
+* please install bonjour for windows first,we use bonjour for zeroconf service.
+# 
+
 # License
 * Free but has some limits
 * maybe disconnect after mirroring 5-10min
